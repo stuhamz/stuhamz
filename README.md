@@ -6,7 +6,6 @@ A passionate Full-Stack Developer and Cybersecurity Enthusiast from India.
 - 🌱 I’m currently working on Cybersecurity + AI projects
 - 👯 I’m open to collaborating on Web Development and AI-based security apps
 - 🧠 I’m currently learning AI integration, OAuth2 security, advanced API architectures
-- 💬 Ask me about React, Next.js, Node.js, PostgreSQL, and TailwindCSS
 - 📫 How to reach me: hamzah.sharda@gmail.com
 - ⚡ Fun fact: I love building futuristic secure systems!
 
