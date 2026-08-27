@@ -1,6 +1,6 @@
 # Hi, I'm Hamzah
 
-I am pursuing an **MSc in Digital Forensics and Information Security at NFSU Bhopal**, with a particular interest in the human side of cybersecurity.
+I am pursuing an **MSc in Digital Forensics and Information Security at NFSU Delhi**, with a particular interest in the human side of cybersecurity.
 
 My work focuses on **social engineering, digital forensics, OSINT, cybercrime reconstruction, electronic evidence, and attribution**.
 
