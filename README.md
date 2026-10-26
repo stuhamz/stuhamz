@@ -1,44 +1,33 @@
-# Hi, I'm Hamzah
+# Hamzah
 
-I am pursuing an **MSc in Digital Forensics and Information Security at NFSU Delhi**, with a particular interest in the human side of cybersecurity.
+**Cybercrime research | Digital forensics | Electronic evidence**
 
-My work focuses on **social engineering, digital forensics, OSINT, cybercrime reconstruction, electronic evidence, and attribution**.
+I am an MSc student in Digital Forensics and Information Security at the **National Forensic Sciences University, Delhi**, and I am also pursuing a Postgraduate Diploma in Cyber Law and Cyber Forensics through **NLSIU PACE**.
 
-I am especially interested in one question:
+My research examines how cybercrime incidents can be reconstructed from public records and digital evidence, with particular attention to social engineering, evidentiary attribution, and the distinction between an allegation and an established finding.
 
-> **How can attacks against humans be reconstructed from digital evidence?**
+## Selected research projects
 
-## Selected Projects
+| Project | Focus | Links |
+| --- | --- | --- |
+| **Social Engineering Incident Atlas India** | A source-linked research dataset covering 300 reviewed incidents, 600 actor-role records and 310 registered sources, with a focus on social engineering and attribution. | [Repository](https://github.com/stuhamz/Social-Engineering-Incident-Atlas-India) · [Explore Atlas](https://stuhamz.github.io/Social-Engineering-Incident-Atlas-India/) |
+| **LeakChain India** | An evidence-linked, 50-incident atlas examining private-imagery exploitation, digital evidence and documented incident sequences. Includes a searchable interactive timeline interface and analytical dashboard. | [Repository](https://github.com/stuhamz/leakchain-india) · [Explore cases](https://stuhamz.github.io/leakchain-india/) |
+| **eCourts Research Toolkit** | A provenance-first toolkit for collecting, screening and structuring public Indian court records for reproducible forensic research. | [Repository](https://github.com/stuhamz/ecourts-research-toolkit) |
+| **PAL V2** | A browser-privacy research framework investigating fingerprint stability, privacy drift and linkability across browser contexts. | [Repository](https://github.com/stuhamz/PAL_V2) |
 
-### Social Engineering Incident Atlas India
-A structured research dataset and analytical framework for studying social-engineering-enabled cybercrime, digital evidence, and attribution in India.
+## Research approach
 
-[View project](https://github.com/stuhamz/Social-Engineering-Incident-Atlas-India)
+- **Source provenance:** Preserve source references, acquisition context, and evidence boundaries.
+- **Incident reconstruction:** Structure events, actor functions, and documentary claims without inferring unsupported chronology.
+- **Attribution:** Distinguish accounts, devices and financial traces from evidence of a person's actual conduct.
+- **Reproducibility:** Publish transparent datasets, coding rules, documentation and testable research tools.
 
-### CaseTrace
-An experimental cybercrime reconstruction challenge where teams reconstruct real-world incidents, evaluate digital evidence, separate fact from inference, and make evidence-supported attribution decisions.
+**Methods and tools:** Python, SQL, JavaScript, OSINT, structured data analysis, judicial-record research, Git and research data validation.
 
-Currently under pilot development.
+## Research interests
 
-### eCourts Research Toolkit
-A provenance-first toolkit for collecting, preserving and screening public Indian court records for cybercrime and digital-forensics research.
-
-[View project](https://github.com/stuhamz/ecourts-scraper)
-
-### PAL V2
-A browser privacy research framework studying fingerprint stability, privacy drift, and linkability.
-
-[View project](https://github.com/stuhamz/PAL_V2)
-
-## Tools
-
-Python · SQL · JavaScript · Git · Pandas · NetworkX
-
-## Interests
-
-Social Engineering · Digital Forensics · OSINT · Cybercrime Attribution · Electronic Evidence · Human-Centric Cybersecurity
+Cybercrime and social engineering · Digital forensics · Electronic evidence · Online victimisation · Human-centred cybersecurity · Evidence-based attribution
 
 ## Contact
 
-**Email:** [hamzah.sharda@gmail.com](mailto:hamzah.sharda@gmail.com)  
-**LinkedIn:** [linkedin.com/in/hamzah-student](https://www.linkedin.com/in/hamzah-student/)
+[Email](mailto:hamzah.sharda@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hamzah-student/) · [GitHub repositories](https://github.com/stuhamz?tab=repositories)
